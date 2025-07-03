@@ -10,7 +10,7 @@ The repository is a _GitHub template_ repository so you can click "Use this temp
 
 There's some basic information here in the README but a more comprehensive documentation can be found in [the official Polymer documentation](https://docs.polymerlabs.org/docs/category/build-ibc-dapps-1).
 
-## 📋 Prerequisites
+## 📋 Prerequisites.
 
 The repo is **compatible with both Hardhat and Foundry** development environments.
 
